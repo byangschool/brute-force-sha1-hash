@@ -1,1 +1,1 @@
-# brute-force-sha1-hash
+# brute-force-sha1-hashes
