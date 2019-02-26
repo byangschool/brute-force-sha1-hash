@@ -13,7 +13,7 @@ Komodo IDE. Download [here](https://www.activestate.com/products/komodo-ide/down
 
 Python 2.7. Download [here](https://www.python.org/downloads/release/python-2715/).
 
-(Curiosity sake)Common Password List. Download [here](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
+(Curiosity sake)Common Password List used. Download [here](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
 
 ### Running the program
 
