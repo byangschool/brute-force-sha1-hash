@@ -18,15 +18,15 @@ Python 2.7. Download [here](https://www.python.org/downloads/release/python-2715
 ### Running the program
 The program runs depending on the number of args.
 
-1 arg : Run **SHA1.py** and paste the SHA1 hash in the script arguments.
+1 arg : Run **SHA1.py** and paste the SHA1 hash in the script arguments(Question 1 & 2).
 
 ![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/singleargument.png)
 
-2 arg : Run **SHA1.py**, however the first arg is the SHA1 hash and the second arg is the salted hash
+2 arg : Run **SHA1.py**, however the first arg is the SHA1 hash and the second arg is the salted hash(Question 3).
 
 ![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/arguments.png)
 
-3 arg : Run **SHA1.py** and paste the SHA1 hash, with "two terms", in the script arguments
+3 arg : Run **SHA1.py** and paste the SHA1 hash, with "two terms", in the script arguments(Question 4).
 
 ![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/threeargument.png)
 
