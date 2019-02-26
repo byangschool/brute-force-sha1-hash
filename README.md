@@ -1,5 +1,5 @@
 # Brute Force SHA1 Hashes
-A program to break SHA1 hashes in a brute force manner. 
+A program used to break SHA1 hashes in a brute force manner. 
 
 Written by **Benson Yang**
 
