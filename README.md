@@ -16,7 +16,10 @@ Python 2.7. Download [here](https://www.python.org/downloads/release/python-2715
 (Curiosity sake)Common Password List used. [here](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
 
 ### Running the program
-The program runs depending on the number of args.
+
+Download SHA1.py.
+
+**The program runs depending on the number of args.**
 
 1 arg : Run **SHA1.py** and paste the SHA1 hash in the script arguments(Question 1 & 2).
 
