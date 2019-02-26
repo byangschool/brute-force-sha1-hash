@@ -26,7 +26,9 @@ The program runs depending on the number of args.
 
 ![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/arguments.png)
 
-3 arg : 
+3 arg : Run the program normally and paste the SHA1 hash, with "two terms", in the script arguments
+
+![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/threeargument.png)
 
 ### SHA1 Hashes to Brute Force
 (20pts) Testing program hash : b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
