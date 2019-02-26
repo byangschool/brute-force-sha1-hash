@@ -31,5 +31,7 @@ Salt term : f0744d60dd500c92c0d37c16174cc58d3c4bdd8e
 
 ## Answers
 Testing program hash : letmein
+
 Medium hacker hash : vjhtrhsvdctcegth
+
 Leet hacker hash : harib
