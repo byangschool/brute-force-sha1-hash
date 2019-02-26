@@ -16,9 +16,15 @@ Python 2.7. Download [here](https://www.python.org/downloads/release/python-2715
 (Curiosity sake)Common Password List used. [here](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt)
 
 ### Running the program
+The program runs depending on the number of args.
 
+1 arg : Run the program normally and paste the SHA1 hash in the script arguments.
 
+![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/singleargument.png)
 
+2 arg : Run the program, however the first arg is the SHA1 hash and the second arg is the salted hash
+
+![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/arguments.png)
 
 ### SHA1 Hashes to Brute Force
 (20pts) Testing program hash : b7a875fc1ea228b9061041b7cec4bd3c52ab3ce3
@@ -36,4 +42,8 @@ Testing program hash : letmein
 
 Medium hacker hash : vjhtrhsvdctcegth
 
+![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/mediumhackerhash.png)
+
 Leet hacker hash : harib
+
+![alt text](https://github.com/byangschool/brute-force-sha1-hashes/blob/master/leethackerhash.png)
