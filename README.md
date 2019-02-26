@@ -17,7 +17,7 @@ Python 2.7. Download [here](https://www.python.org/downloads/release/python-2715
 
 ### Running the program
 
-Download SHA1.py.
+Download and run SHA1.py.
 
 **The program runs depending on the number of args.**
 
